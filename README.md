@@ -5,7 +5,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prangon17" alt="prangon17" /></a> </p>
-<img align="right" alt="Welcome" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
+<img align="right" alt="Welcome" width="450" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 - 📫 How to reach me **bprangon@gmail.com**
 
 - ⚡ Fun fact **I am Funny and Talk Active**
