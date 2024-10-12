@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prangon</h1>
-<h3 align="center">A software engineering student, tech enthusiast and problem solver with a passion for innovation from Bangladesh</h3>
+<h3 align="center">A Computer Science and Engineering student, tech enthusiast and problem solver with a passion for innovation from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prangon17&label=Profile%20views&color=0e75b6&style=flat" alt="prangon17" /> </p>
 
